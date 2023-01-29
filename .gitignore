@@ -35,4 +35,4 @@
 *.vs/
 
 #CMAKE
-*/out/
+*out/
