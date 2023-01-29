@@ -32,7 +32,9 @@
 *.app
 
 # vs
-*/.vs/
+.vs/
 
 #CMAKE
-*/out/
+out/
+
+
