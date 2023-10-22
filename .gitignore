@@ -37,4 +37,5 @@
 #CMAKE
 out/
 
+build/*
 
